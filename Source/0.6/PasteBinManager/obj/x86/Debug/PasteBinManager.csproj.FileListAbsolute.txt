@@ -1,0 +1,8 @@
+C:\Users\Sin Decidir\Documents\GitHub\PasteBin_Manager\Source\0.6\PasteBinManager\obj\x86\Debug\PasteBinManager.exe
+C:\Users\Sin Decidir\Documents\GitHub\PasteBin_Manager\Source\0.6\PasteBinManager\obj\x86\Debug\PasteBinManager.pdb
+C:\Users\Sin Decidir\Documents\GitHub\PasteBin_Manager\Source\0.6\PasteBinManager\bin\Debug\PasteBinManager.exe
+C:\Users\Sin Decidir\Documents\GitHub\PasteBin_Manager\Source\0.6\PasteBinManager\bin\Debug\PasteBinManager.pdb
+C:\Users\Sin Decidir\Documents\GitHub\PasteBin_Manager\Source\0.6\PasteBinManager\obj\x86\Debug\PasteBinManager.csprojResolveAssemblyReference.cache
+C:\Users\Sin Decidir\Documents\GitHub\PasteBin_Manager\Source\0.6\PasteBinManager\obj\x86\Debug\PasteBinManager.FormHome.resources
+C:\Users\Sin Decidir\Documents\GitHub\PasteBin_Manager\Source\0.6\PasteBinManager\obj\x86\Debug\PasteBinManager.Properties.Resources.resources
+C:\Users\Sin Decidir\Documents\GitHub\PasteBin_Manager\Source\0.6\PasteBinManager\obj\x86\Debug\PasteBinManager.csproj.GenerateResource.Cache
